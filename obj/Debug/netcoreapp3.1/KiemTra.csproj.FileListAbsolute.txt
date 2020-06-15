@@ -1,0 +1,13 @@
+C:\Users\pxtha\source\repos\Lab9\KiemTra\bin\Debug\netcoreapp3.1\KiemTra.exe
+C:\Users\pxtha\source\repos\Lab9\KiemTra\bin\Debug\netcoreapp3.1\KiemTra.deps.json
+C:\Users\pxtha\source\repos\Lab9\KiemTra\bin\Debug\netcoreapp3.1\KiemTra.runtimeconfig.json
+C:\Users\pxtha\source\repos\Lab9\KiemTra\bin\Debug\netcoreapp3.1\KiemTra.runtimeconfig.dev.json
+C:\Users\pxtha\source\repos\Lab9\KiemTra\bin\Debug\netcoreapp3.1\KiemTra.dll
+C:\Users\pxtha\source\repos\Lab9\KiemTra\bin\Debug\netcoreapp3.1\KiemTra.pdb
+C:\Users\pxtha\source\repos\Lab9\KiemTra\obj\Debug\netcoreapp3.1\KiemTra.csprojAssemblyReference.cache
+C:\Users\pxtha\source\repos\Lab9\KiemTra\obj\Debug\netcoreapp3.1\KiemTra.AssemblyInfoInputs.cache
+C:\Users\pxtha\source\repos\Lab9\KiemTra\obj\Debug\netcoreapp3.1\KiemTra.AssemblyInfo.cs
+C:\Users\pxtha\source\repos\Lab9\KiemTra\obj\Debug\netcoreapp3.1\KiemTra.csproj.CoreCompileInputs.cache
+C:\Users\pxtha\source\repos\Lab9\KiemTra\obj\Debug\netcoreapp3.1\KiemTra.dll
+C:\Users\pxtha\source\repos\Lab9\KiemTra\obj\Debug\netcoreapp3.1\KiemTra.pdb
+C:\Users\pxtha\source\repos\Lab9\KiemTra\obj\Debug\netcoreapp3.1\KiemTra.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\pxtha\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pxtha\\.nuget\\packages"
+    ]
+  }
+}
